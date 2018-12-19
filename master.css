@@ -5,7 +5,7 @@ a {
 
 html, body {
   margin: 0;
-	font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 html {
@@ -53,11 +53,11 @@ html {
 }
 
 .card {
-  margin:auto;
+  margin: auto;
   background-color: #ffffff;
   padding: 1%;
-  margin-top: 0.5%;
-  margin-bottom: 0.5%;
+  margin-top: 10px;
+  margin-bottom: 10px;
   width: 60%;
   line-height: 35px;
   box-shadow:0 4px 8px 0 rgba(0,0,0,0.2),0 3px 10px 0 rgba(0,0,0,0.19);
@@ -65,11 +65,8 @@ html {
 
 @media screen and (max-width: 600px) {
   .card {
-    width: 100%;
-    margin-left: 0;
-    margin-right: 0;
-    padding-left: 0;
-    padding-right: 0;
+    width: auto;
+    margin: 10px;
   }
   .card h1 {
     font-size: 30px;
