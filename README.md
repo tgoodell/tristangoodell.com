@@ -8,6 +8,7 @@ This repository houses the website files for [tristangoodell.com](https://trista
 ![css3](https://img.shields.io/badge/code-CSS-blue.svg)
 ![js](https://img.shields.io/badge/code-JS-yellow.svg)
 ![avh](https://img.shields.io/badge/web-Apache%20Virtual%20Hosts-critical.svg)
+![GNU GPLv3](https://img.shields.io/badge/license-GNU%20GPLv3-%23a42e2b.svg)
 
 ## Installation
 
@@ -33,4 +34,4 @@ Then, clone this github repo to create a new `public_html`:
 
 ## License
 
-TBD
+GNU General Public License v3.0
