@@ -1,5 +1,7 @@
 # tristangoodell.com
 
+**NOTE: This repository has been archived and will no longer be updated.**
+
 ---
 
 This repository houses the website files for [tristangoodell.com](https://tristangoodell.com). 
